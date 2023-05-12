@@ -26,4 +26,4 @@ Quelques references
 
 >Isichenko M. (2021),  Quantitative Portfolio Management: The Art and Science of Statistical Arbitrage.
 
->Rincalli T. (2010), La Gestion d'Actifs Quantitative
+>Roncalli T. (2010), La Gestion d'Actifs Quantitative
