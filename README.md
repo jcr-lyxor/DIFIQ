@@ -23,3 +23,7 @@ Quelques references
 >Roncalli, T. (2013), Introduction to Risk Parity and Budgeting, Chapman & Hall/CRC Financial Mathematics Series.
 
 >Scherer B. (2007), Portfolio Construction & Risk Budgeting, Third edition, Risk Books.
+
+>Isichenko M. (2021),  Quantitative Portfolio Management: The Art and Science of Statistical Arbitrage.
+
+>Rincalli T. (2010), La Gestion d'Actifs Quantitative
